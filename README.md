@@ -14,8 +14,6 @@ CSS.
 JAVASCRIPT.
 
 
-
-
 Estructura de las carpetas del proyecto:
 
 
